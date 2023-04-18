@@ -1,0 +1,7 @@
+CLASE 1: INTRODUCCION
+
+--> Leer algo sobre Scrum
+
+La ing de software es la aplicacion de un enfoque sistematico, disciplinado y cuantificable al desarrollo, operacion y mantenimiento del software.
+
+

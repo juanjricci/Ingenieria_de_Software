@@ -1,0 +1,24 @@
+#clase 1: introduccion
+--> Leer algo sobre Scrum
+--> Bibliografia:
+	Ingenieria de software un enfoque practico
+	El proceso unificado de desarrollo
+	Patrones de diseno - *algo* Gamma
+
+La ing de software es la aplicacion de un enfoque sistematico, disciplinado y cuantificable al desarrollo, operacion y mantenimiento del software.
+
+Que es un software? Solucion a un problema a traves de la programcion. Un producto de software no solo es el software o programa, sino que tambien el proceso con el cual llegamos a un programa final.
+
+Los requerimientos son la materia prima sobre la cual vamos a trabajar. Es la base de todo.
+
+Requerimientos ---> proceso de desarrollo de software ---> Producto de software
+
+
+#clase 05-04-2021
+CONFIGURACION DEL SOFTWARE:
+	.configuracion: "disposicion de las partes que componen una cosa y le dan su forma y sus propiedades". "Los elementos que componen todala info producida como parte del proceso de ing de software se denominan colectivamente configuracion del software".
+
+ELEMENTOS DE CONFIGURACION
+	.programas de computadora (tanto codigo fuente como ejecutable)
+	.documentos que describen los programas de computadora 
+	.
